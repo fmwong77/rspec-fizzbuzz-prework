@@ -7,4 +7,5 @@ def fizzbuzz(num)
     return "Fizz"
   else
     return nill
+  end
 end
